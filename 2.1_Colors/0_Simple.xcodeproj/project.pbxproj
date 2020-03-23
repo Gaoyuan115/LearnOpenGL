@@ -33,6 +33,8 @@
 		1C0596B2241BF77A00976AC2 /* OpenGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGL.framework; path = System/Library/Frameworks/OpenGL.framework; sourceTree = SDKROOT; };
 		1C0596B4241BF7B400976AC2 /* libglfw.3.3.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libglfw.3.3.dylib; path = ../../../../../usr/local/Cellar/glfw/3.3.2/lib/libglfw.3.3.dylib; sourceTree = "<group>"; };
 		1C0596B6241BF7C700976AC2 /* libGLEW.2.1.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libGLEW.2.1.0.dylib; path = ../../../../../usr/local/Cellar/glew/2.1.0_1/lib/libGLEW.2.1.0.dylib; sourceTree = "<group>"; };
+		1C6E44C92429211C007AAEF0 /* lamp.vs */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = lamp.vs; sourceTree = "<group>"; };
+		1C6E44CA2429211C007AAEF0 /* lamp.fs */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = lamp.fs; sourceTree = "<group>"; };
 		1C8176AB2429060300AD7A24 /* Camera.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Camera.h; sourceTree = "<group>"; };
 		1C9138A7242287560089E680 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		1C9138A8242287560089E680 /* glad.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = glad.c; sourceTree = "<group>"; };
@@ -82,6 +84,8 @@
 				1C9138A7242287560089E680 /* main.cpp */,
 				1C9138AC242287570089E680 /* Shader.h */,
 				1C9138AD242287570089E680 /* stb_image_wrap.cpp */,
+				1C6E44CA2429211C007AAEF0 /* lamp.fs */,
+				1C6E44C92429211C007AAEF0 /* lamp.vs */,
 				1C9138AA242287570089E680 /* stb_image.h */,
 				1C9138AB242287570089E680 /* vert.vs */,
 				1C8176AB2429060300AD7A24 /* Camera.h */,

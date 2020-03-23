@@ -36,7 +36,7 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       launchStyle = "0"
       useCustomWorkingDirectory = "YES"
-      customWorkingDirectory = "/Users/yuan/Workspace/MyGithubRepoitorys/LearnOpenGL/6_Camera/0_Simple"
+      customWorkingDirectory = "/Users/yuan/Workspace/MyGithubRepoitorys/LearnOpenGL/2.1_Colors/0_Simple"
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
